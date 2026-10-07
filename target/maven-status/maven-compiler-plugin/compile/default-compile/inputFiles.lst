@@ -1,0 +1,16 @@
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\controller\ApplicationController.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\controller\NotificationController.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\dto\EmailRequest.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\dto\NotificationRequest.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\dto\Recipient.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\entity\Application.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\entity\NotificationRecipientEntity.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\entity\NotificationRequestEntity.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\NotificationUtilityApplication.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\repository\ApplicationRepository.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\repository\NotificationRecipientRepository.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\repository\NotificationRequestRepository.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\service\ApplicationService.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\service\EmailService.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\service\NotificationService.java
+C:\Users\Radhakrishna\Desktop\notification-utility\src\main\java\com\example\notification_utility\service\TemplateRenderer.java

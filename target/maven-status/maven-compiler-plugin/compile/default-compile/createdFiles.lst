@@ -1,0 +1,14 @@
+com\example\notification_utility\controller\NotificationController.class
+com\example\notification_utility\NotificationUtilityApplication.class
+com\example\notification_utility\service\ApplicationService.class
+com\example\notification_utility\service\NotificationService.class
+com\example\notification_utility\dto\EmailRequest.class
+com\example\notification_utility\repository\NotificationRequestRepository.class
+com\example\notification_utility\repository\ApplicationRepository.class
+com\example\notification_utility\service\EmailService.class
+com\example\notification_utility\controller\ApplicationController.class
+com\example\notification_utility\dto\Recipient.class
+com\example\notification_utility\entity\Application.class
+com\example\notification_utility\entity\NotificationRequestEntity.class
+com\example\notification_utility\service\TemplateRenderer.class
+com\example\notification_utility\dto\NotificationRequest.class
